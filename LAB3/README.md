@@ -1,4 +1,4 @@
-# TP03 — Automatic License Plate Recognition with SPADE (Python)
+# TP03 : Automatic License Plate Recognition with SPADE (Python)
 
 > **Course:** Multi-Agent Systems | UEMF / EIDIA  
 > **Author:** Esakhi Hajjar | AI Engineering – 2nd Year  
